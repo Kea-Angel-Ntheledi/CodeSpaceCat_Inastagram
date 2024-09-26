@@ -1,7 +1,9 @@
 
 # Learning Reflections README 
 
-## **6.15 CodeSpace Pets Instagram Profile Project**
+## Project demo: https://codespacecat.netlify.app/
+
+## CodeSpace Pets Instagram Profile Project**
 
 ### Overview
 This project represents a simple Instagram-like webpage for CodeSpace Pets. It features a profile section, showcasing a profile image, user details, statistics, and a bio. The main content includes a gallery of pet images with like and comment statistics. The project is styled using an external CSS file and incorporates the Font Awesome icon library.
@@ -15,14 +17,7 @@ This project illustrates various CSS layout techniques applied to create a visua
 - **CSS Layout Techniques**: The project demonstrates proficiency in CSS layout techniques, allowing for the creation of a visually appealing and well-organized webpage. The layout is structured with a header and main sections, showcasing a mastery of CSS for effective page structuring.
 - **Responsive Design**: The webpage exhibits responsiveness, ensuring an optimal viewing experience across various devices and screen sizes. The use of the viewport meta tag and responsive units in the CSS contributes to a layout that adapts seamlessly to different screen dimensions.
 - **Styling Elements**: The styling of HTML elements, including buttons, images, and profile sections, reflects a keen understanding of CSS styling. The stylesheet (styles.css) is linked to the HTML file, providing consistent and visually pleasing styling for the entire webpage.
-
-
-
-#### Challenges Faced
-
-- **Responsive Design for Smaller Screens**: Designing for smaller screens means there is limited space to showcase content. i found it challenging to prioritize and present information effectively without cluttering the interface.
-- **Hover and Focus Effects**:  My CSS hover effects behaved differently for quite some time, therefore i wasted so much time trying to fix everything. 
-
+- 
 #### Areas for Improvement
 
 - **Advanced CSS Properties**: While I have a solid understanding of fundamental CSS properties, I acknowledge that there's room for improvement in handling advanced CSS properties. Specifically, I aim to enhance my proficiency in: advanced selectors, css grid and flexbox.
